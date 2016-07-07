@@ -1,2 +1,0 @@
-# itsm-common
-itsm-common
